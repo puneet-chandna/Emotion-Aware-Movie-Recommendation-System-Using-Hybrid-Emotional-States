@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+sentence-transformers
+textblob
+spacy
+tqdm
+wordcloud
+notebook
